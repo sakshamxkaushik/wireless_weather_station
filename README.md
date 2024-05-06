@@ -21,6 +21,8 @@ This project is a wireless temperature and humidity monitoring system using Ardu
 
 - **DHT11 Sensor**:
   - Data pin to Arduino pin 3
+  - GND pin to Arduino GND
+  - VCC to 3.3V Arduino 
 
 ## Receiver Node
 
